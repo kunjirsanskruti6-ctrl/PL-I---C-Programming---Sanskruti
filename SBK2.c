@@ -1,5 +1,6 @@
-/* Program(3)-> Write a program to make use of basic Input/Output functions using different data types.
-Solution-> User Defined Values */
+/* Program(2)-> Write a program to make use of basic Input/Output functions using different data types.
+Solution(2)-> User Defined Values 
+*/
 #include <stdio.h>
 int main()
 {
