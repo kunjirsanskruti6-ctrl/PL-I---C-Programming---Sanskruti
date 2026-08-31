@@ -1,6 +1,6 @@
 /*
-Program-> Write a program to Calculate the Area of a Circle.
-Solution-> Predifined Values
+Program(3)-> Write a program to Calculate the Area of a Circle.
+Solution(1)-> Predifined Values
 */
 #include <stdio.h>
 int main()
