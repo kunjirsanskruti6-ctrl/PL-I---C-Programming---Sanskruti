@@ -5,7 +5,7 @@ Solution (2) : User define values in the program + using all type of  loops + Im
 */
 
 #include <stdio.h>
-int main()
+ int main()
 {
     int var1[5];
     float var2[5];
