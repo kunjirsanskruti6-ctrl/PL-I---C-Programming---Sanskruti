@@ -1,5 +1,5 @@
 /*
-Program (19) -> Write a program to accept the element of a one-dimensional array
+Program (19) -> Write a program to accept the element of a one-dimensional array 
 			and calculate the sum of all its elements.
 
 Solution (1) : Using for loop
