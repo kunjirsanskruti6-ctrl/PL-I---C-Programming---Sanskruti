@@ -1,5 +1,6 @@
 /*
-Progarm (20) -> Write a program to accept the element of a one-dimensional array and calculate the sum of all it's element.
+Progarm (20) -> Write a program to accept the element of a one-dimensional array and 
+               calculate the sum of all it's element.
 
 Solution (2) : Using while loop
 */
