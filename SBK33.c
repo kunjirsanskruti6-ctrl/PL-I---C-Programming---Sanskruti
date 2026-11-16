@@ -1,3 +1,11 @@
+/*
+Program (33) ->
+Write a program using a structure to store the details of a student, including roll number, name, and marks in three subjects. Accept the input from the user, calculate the total and average of the marks, and display the student's details, total marks, and average marks.
+
+Solution: Using Structure
+*/
+
+
 #include <stdio.h>
 struct Student 
 {
