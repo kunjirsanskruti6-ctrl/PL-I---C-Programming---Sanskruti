@@ -1,6 +1,5 @@
 /*
 Program (37) ->
-
 Write a program to accept two strings and perform operations using inbuilt functions
 1) Copy one string into another
 2) Reversing the string
